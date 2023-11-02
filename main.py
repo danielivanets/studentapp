@@ -72,6 +72,7 @@ while True:
             print("Student with this DNI not found.")
     elif op == 5:
         print("Exiting...")
+        print("Bye!!!!")
         break
     else:
         print("Invalid option. Please choose a valid option.")
